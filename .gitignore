@@ -90,3 +90,4 @@ ENV/
 
 # IDE_idea
 .idea/
+.DS_Store
